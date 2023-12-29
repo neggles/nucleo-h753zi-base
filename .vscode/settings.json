@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "CMakelists.txt": "cmake",
+        "*.cmake": "cmake"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.configureOnOpen": true,
+    "cmake.configureOnEdit": true,
+    "cmake.copyCompileCommands": ".vscode/compile_commands.json"
+}
